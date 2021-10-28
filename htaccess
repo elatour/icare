@@ -1,0 +1,4 @@
+AuthName "Page d'administration protégée"
+AuthType Basic
+AuthUserFile "C:\Users\ICARE\Desktop\SITE ICARE VIMEO\.htpasswd"
+Require valid-user
